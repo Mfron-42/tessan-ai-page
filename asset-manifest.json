@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/tessan-ai-page/static/css/main.de20a600.css",
-    "main.js": "/tessan-ai-page/static/js/main.f608cd7c.js",
+    "main.css": "/tessan-ai-page/static/css/main.acb1c736.css",
+    "main.js": "/tessan-ai-page/static/js/main.87a354a9.js",
     "index.html": "/tessan-ai-page/index.html",
-    "main.de20a600.css.map": "/tessan-ai-page/static/css/main.de20a600.css.map",
-    "main.f608cd7c.js.map": "/tessan-ai-page/static/js/main.f608cd7c.js.map"
+    "main.acb1c736.css.map": "/tessan-ai-page/static/css/main.acb1c736.css.map",
+    "main.87a354a9.js.map": "/tessan-ai-page/static/js/main.87a354a9.js.map"
   },
   "entrypoints": [
-    "static/css/main.de20a600.css",
-    "static/js/main.f608cd7c.js"
+    "static/css/main.acb1c736.css",
+    "static/js/main.87a354a9.js"
   ]
 }
